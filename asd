@@ -1,2 +1,2 @@
-deneme
-deneme2
+deneme1
+deneme22
